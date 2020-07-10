@@ -2,7 +2,7 @@
 color C0
 echo You are gay tho....hehehehehe
 echo You are hacked...
-echo Your PC will crash in 10 seconds
+echo Your PC will crash in 3 seconds
 echo  ____   __  __  __  __  __  __  _  _ 
 echo (  _ \ (  )(  )(  \/  )(  \/  )( \/ )
 echo  )(_) ) )(__)(  )    (  )    (  \  / 
